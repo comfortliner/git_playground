@@ -1,0 +1,8 @@
+# git
+package-lock.json
+
+# Node.js folders
+*node_modules/
+
+# OS generated files and folders
+.DS_Store

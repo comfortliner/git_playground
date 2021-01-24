@@ -1,0 +1,21 @@
+{
+  "name": "git_playground",
+  "version": "0.0.0",
+  "description": "Try out a boilerplate environment for developing node apps",
+  "devDependencies": {
+    "assertthat": "5.2.5",
+    "eslint": "7.18.0",
+    "eslint-config-es": "3.27.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "engines": {
+    "node": ">=10.18.0"
+  }
+}
