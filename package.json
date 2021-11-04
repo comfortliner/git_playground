@@ -12,7 +12,7 @@
   "types": "",
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "5.2.5",
+    "assertthat": "6.3.14",
     "roboter": "12.5.0"
   },
   "scripts": {},
