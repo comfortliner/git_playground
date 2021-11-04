@@ -13,14 +13,9 @@
   "dependencies": {},
   "devDependencies": {
     "assertthat": "5.2.5",
-    "eslint": "7.18.0",
-    "eslint-config-es": "3.27.6",
-    "mocha": "9.1.3",
     "roboter": "12.5.0"
   },
-  "scripts": {
-    "test": "mocha"
-  },
+  "scripts": {},
   "os": [
     "darwin",
     "linux",
