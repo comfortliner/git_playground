@@ -1,5 +1,12 @@
 # git_playground
 
+## Status
+
+| Category         | Status                                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------- |
+| Build            | ![GitHub Actions](https://github.com/comfortliner/git_playground/workflows/Release/badge.svg?branch=master) |
+| License          | ![GitHub](https://img.shields.io/github/license/comfortliner/git_playground)                                |
+
 I use this repo to learn using github.
 
 I have put a documentation of my thoughts in the [wiki](https://github.com/comfortliner/git_playground/wiki).
