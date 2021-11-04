@@ -10,8 +10,7 @@ jobs:
     strategy:
       matrix:
         node-version: [ '16.x' ]
-        # Unlike usual, don't run this on Ubuntu, as ALSA is not installed by
-        # default.
+        # Unlike usual, don't run this on Ubuntu.
         os: [ macos-latest ]
 
     steps:
