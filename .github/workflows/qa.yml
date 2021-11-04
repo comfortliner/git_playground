@@ -1,0 +1,28 @@
+name: QA
+
+on: pull_request
+
+jobs:
+  qa:
+    name: QA
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        node-version: [ '16.x' ]
+        # Unlike usual, don't run this on Ubuntu, as ALSA is not installed by
+        # default.
+        os: [ macos-latest ]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install dependencies
+      run: |
+        npm install
+    - name: Run roboter
+      run: |
+        npx roboter
