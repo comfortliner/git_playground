@@ -8,7 +8,7 @@
 | Version          | ![GitHub package.json version](https://img.shields.io/github/package-json/v/comfortliner/git_playground)    |
 | License          | ![GitHub](https://img.shields.io/github/license/comfortliner/git_playground)                                |
 
-I use this repo to learn using github.
+I use this repo to learn using github!
 
 I have put a documentation of my thoughts in the [wiki](https://github.com/comfortliner/git_playground/wiki).
 
