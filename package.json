@@ -7,7 +7,7 @@
       "name": "comfortliner"
     }
   ],
-  "private": false,
+  "private": true,
   "main": "",
   "types": "",
   "dependencies": {},
