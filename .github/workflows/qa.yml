@@ -10,7 +10,6 @@ jobs:
     strategy:
       matrix:
         node-version: [ '16.x' ]
-        # Unlike usual, don't run this on Ubuntu.
         os: [ windows-latest, ubuntu-latest, macos-latest ]
 
     steps:
