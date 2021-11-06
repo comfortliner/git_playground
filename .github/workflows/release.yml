@@ -26,3 +26,7 @@ jobs:
     - name: Compile TypeScript
       run: |
         npx roboter build
+    - name: Release
+      env:
+        GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE }}
+      run: npx semantic-release
