@@ -10,6 +10,7 @@
   "private": false,
   "main": "",
   "types": "",
+  "dependencies": {},
   "devDependencies": {
     "@semantic-release/changelog": "6.0.1",
     "@semantic-release/git": "10.0.1",
