@@ -28,5 +28,5 @@ jobs:
         npx roboter build
     - name: Release
       env:
-        GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN_ADMIN }}
       run: npx semantic-release
