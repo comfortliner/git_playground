@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/comfortliner/git_playground/compare/1.1.0...1.2.0) (2021-11-07)
+
+
+### Features
+
+* BREAKING CHANGE semantic-release test5 ([7d37fd7](https://github.com/comfortliner/git_playground/commit/7d37fd7ce30d3a29eb1f32be8b71980940c7c041))
+
 # [1.1.0](https://github.com/comfortliner/git_playground/compare/1.0.2...1.1.0) (2021-11-07)
 
 
