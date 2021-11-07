@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/comfortliner/git_playground/compare/1.2.0...2.0.0) (2021-11-07)
+
+
+### Features
+
+* sematic-release test6 ([1bca8e9](https://github.com/comfortliner/git_playground/commit/1bca8e995aedbe5d0cc1e193676bc24dbad61567))
+
+
+### BREAKING CHANGES
+
+* This commit represent the test for major releases.
+
 # [1.2.0](https://github.com/comfortliner/git_playground/compare/1.1.0...1.2.0) (2021-11-07)
 
 
