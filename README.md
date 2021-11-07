@@ -10,8 +10,6 @@
 
 I use this repo to learn using github!
 
-small change
-
 I have put a documentation of my thoughts in the [wiki](https://github.com/comfortliner/git_playground/wiki).
 
 But there are tons of interesting content in the internet:
