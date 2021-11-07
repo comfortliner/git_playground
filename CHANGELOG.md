@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/comfortliner/git_playground/compare/1.0.1...1.0.2) (2021-11-07)
+
+
+### Performance Improvements
+
+* semantic-release test3 ([5ef220b](https://github.com/comfortliner/git_playground/commit/5ef220b7ef217e5667842b5739d6dc3bb2568f6c))
+
 ## [1.0.1](https://github.com/comfortliner/git_playground/compare/1.0.0...1.0.1) (2021-11-06)
 
 
