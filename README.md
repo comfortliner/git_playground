@@ -10,7 +10,7 @@
 
 I use this repo to learn using github!
 
-change something to force a semantic-release test....
+change something to force a semantic-release test...
 
 I have put a documentation of my thoughts in the [wiki](https://github.com/comfortliner/git_playground/wiki).
 
