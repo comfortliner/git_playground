@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/comfortliner/git_playground/compare/1.0.2...1.1.0) (2021-11-07)
+
+
+### Features
+
+* semantic-release test4 ([41a8a81](https://github.com/comfortliner/git_playground/commit/41a8a812d1028bc58bf30cd5192113bfb4240639))
+
 ## [1.0.2](https://github.com/comfortliner/git_playground/compare/1.0.1...1.0.2) (2021-11-07)
 
 
