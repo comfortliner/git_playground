@@ -4,7 +4,7 @@
 
 | Category         | Status                                                                                                      |
 | ---------------- | ----------------------------------------------------------------------------------------------------------- |
-| Build            | ![GitHub Actions](https://github.com/comfortliner/git_playground/workflows/Release/badge.svg?branch=master) |
+| Build            | ![GitHub Actions](https://github.com/comfortliner/git_playground/workflows/Release/badge.svg?branch=main) |
 | Version          | ![GitHub package.json version](https://img.shields.io/github/package-json/v/comfortliner/git_playground)    |
 | License          | ![GitHub](https://img.shields.io/github/license/comfortliner/git_playground)                                |
 
