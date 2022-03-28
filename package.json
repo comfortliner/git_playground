@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "@anders1101/semantic-release-configuration": "1.0.2",
-    "assertthat": "6.3.14",
+    "assertthat": "6.5.2",
     "roboter": "12.5.0"
   },
   "scripts": {},
